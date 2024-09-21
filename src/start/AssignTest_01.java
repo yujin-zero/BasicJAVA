@@ -1,3 +1,5 @@
+package start;
+
 public class AssignTest_01 {
     public static void main(String[] args) {
         int kk, tt, pp; // 정수형 변수 선언

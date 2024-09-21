@@ -1,3 +1,5 @@
+package start;
+
 import java.text.DecimalFormat;
 public class DecimalFormatTest_01 {
     public static void main(String[] args) {

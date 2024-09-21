@@ -1,3 +1,5 @@
+package start;
+
 import java.util.Scanner;
 public class DataInputTest_05 {
     public static void main(String[] args) {

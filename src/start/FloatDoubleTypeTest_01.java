@@ -1,3 +1,5 @@
+package start;
+
 import java.util.Scanner;
 public class FloatDoubleTypeTest_01 {
     public static void main(String[] args) {

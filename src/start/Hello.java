@@ -1,3 +1,5 @@
+package start;
+
 public class Hello { // 클래스의 시작
     public static void main(String[] args) { // 메인 메소드 시작
         System.out.println("Java 입문 환영!");

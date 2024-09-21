@@ -1,3 +1,5 @@
+package start;
+
 public class LogOperTest_01 {
     public static void main(String[] args) {
         int x = 30, y = 100, z = 10;

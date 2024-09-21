@@ -1,3 +1,5 @@
+package start;
+
 import java.io.IOException;
 import java.util.Scanner;
 public class CharTypeTest_01 {
