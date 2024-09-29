@@ -7,7 +7,7 @@ public class PersonInfo {
 
     // toString() 메소드 오버라이딩
     public String toString() {
-        return String.format("이름 : %s, 주소 : %s, 핸드폰번호 : %s",name,address,phoneNumber);
+        return String.format("이름 : %s, 주소 : %s, 핸드폰번호 : %s\n",name,address,phoneNumber);
     }
 
     // 생성자에서 자신의 생성자를 호출하는 경우
